@@ -134,8 +134,9 @@ long microsecondsToCentimeters(long microseconds) {
 
 # Output:
 
-<img width="1089" height="670" alt="Screenshot 2025-09-23 144511" src="https://github.com/user-attachments/assets/9e135041-7d23-4206-aefa-3845696926ef" />
 
+
+<img width="551" height="377" alt="image" src="https://github.com/user-attachments/assets/6ea6e14c-7ad3-4410-85bf-7a04cd24566e" />
 
 
 # Result:
